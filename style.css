@@ -67,7 +67,7 @@ a:hover{
 	color: gold;
 	padding-left: 100px;
 	padding-top: 50px;
-	font-size: 60px;
+	font-size: 50px;
 }
 .section input[type="text"]{
 	width: 200px;
@@ -89,7 +89,7 @@ a:hover{
 	width: 250px;
 	height: 280px;
 }
-#a .section,.sectiona{
+#a{
 	border: 1px solid black;
 	border-color: white black black black;
 	width: 1200px;
